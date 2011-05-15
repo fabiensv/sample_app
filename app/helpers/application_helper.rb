@@ -10,7 +10,7 @@ def page_title
 end
 
 def logo
-  image_tag("logo.png", :alt => "Sample App", :class => "round",:href => root_path)
+  image_tag("logo.png", :alt => "Sample App", :class => "round")
 end
 
 end
